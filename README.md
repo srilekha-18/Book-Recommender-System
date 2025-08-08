@@ -1,2 +1,15 @@
-# Book-Recommender-System
-A content-based Book Recommender System using cosine similarity for personalized suggestions. Includes an intuitive HTML/CSS interface for real-time recommendations based on user input.
+# 📚 Book Recommender System
+
+A content-based book recommendation engine using cosine similarity for personalized suggestions.
+
+### ⚙️ Features
+- Recommends books similar to user's favorite
+- Content-based filtering using cosine similarity
+- Web interface built using HTML/CSS
+- Instant user interaction and suggestions
+
+### 🛠 Technologies Used
+- Python
+- Pandas
+- Scikit-learn (cosine similarity)
+- HTML/CSS
